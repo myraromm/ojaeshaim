@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aewobeina.umakeit.se/sitemap.xml
